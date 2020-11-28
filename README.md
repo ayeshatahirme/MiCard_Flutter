@@ -1,14 +1,14 @@
-# Business_Flutter
+## Business_Flutter
 ## Using Flutter
 
-# Software Installation
+## Software Installation
 ### Visual Studio Code
 To install the code editor Visual Studio Code [Click Here!](https://code.visualstudio.com/)
 
 ### Flutter SDK
 To install Flutter SDK [Click Here!](https://flutter.dev/docs/get-started/install)
 
-# Project Configuration Guidelines (Step by Step):
+## Project Configuration Guidelines (Step by Step):
 
 ### Step 1. Clone the repo
 There are two ways to download the project to the system. You can use any one of them.
