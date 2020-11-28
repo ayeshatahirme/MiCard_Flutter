@@ -16,13 +16,13 @@ Open Github project repository that you want to download, at the right hand ther
 ```
 git clone Github repo URL
  
-For example git clone https://github.com/ayeshatahirme/bmi-calculator-flutter.git
+For example git clone https://github.com/ayeshatahirme/MiCard_Flutter.git
 ```
 #### •	Option 2
 Open Github project repository that you want to download, at the right hand there will be a button “Code”. Click on that button. It will show the option to download zip. Click on the **“Download Zip”** option to download it on your system.
 
 ### Step 2. Open in Code Editor
-To run the project, you need to open it in Visual Studio Code. Open the project folder, there will be another folder named **“bmi-calculator-flutter”**. This folder contains the files that you will need to set up the project.
+To run the project, you need to open it in Visual Studio Code. Open the project folder, there will be another folder named **“MiCard_Flutter”**. This folder contains the files that you will need to set up the project.
 Connect your phone using data cable with laptop. Both laptop and device must have same internet connected. Turn on the **usb debugging** on device.
 
 ### Step 5. Run the project.
